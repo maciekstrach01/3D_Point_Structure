@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projects\\C#\\3d point structure cs\\zad2.csproj",
-      "projectName": "zad2",
-      "projectPath": "C:\\projects\\C#\\3d point structure cs\\zad2.csproj",
+      "projectUniqueName": "C:\\projects\\C#\\3d point structure cs\\program.csproj",
+      "projectName": "program",
+      "projectPath": "C:\\projects\\C#\\3d point structure cs\\program.csproj",
       "packagesPath": "C:\\Users\\Maciek\\.nuget\\packages\\",
       "outputPath": "C:\\projects\\C#\\3d point structure cs\\obj\\",
       "projectStyle": "PackageReference",
