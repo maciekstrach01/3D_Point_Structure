@@ -1,0 +1,45 @@
+C:\Users\Maciek\Desktop\lab5_zad2\zad2\bin\Debug\net7.0\zad2.exe
+C:\Users\Maciek\Desktop\lab5_zad2\zad2\bin\Debug\net7.0\zad2.deps.json
+C:\Users\Maciek\Desktop\lab5_zad2\zad2\bin\Debug\net7.0\zad2.runtimeconfig.json
+C:\Users\Maciek\Desktop\lab5_zad2\zad2\bin\Debug\net7.0\zad2.dll
+C:\Users\Maciek\Desktop\lab5_zad2\zad2\bin\Debug\net7.0\zad2.pdb
+C:\Users\Maciek\Desktop\lab5_zad2\zad2\obj\Debug\net7.0\zad2.csproj.AssemblyReference.cache
+C:\Users\Maciek\Desktop\lab5_zad2\zad2\obj\Debug\net7.0\zad2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maciek\Desktop\lab5_zad2\zad2\obj\Debug\net7.0\zad2.AssemblyInfoInputs.cache
+C:\Users\Maciek\Desktop\lab5_zad2\zad2\obj\Debug\net7.0\zad2.AssemblyInfo.cs
+C:\Users\Maciek\Desktop\lab5_zad2\zad2\obj\Debug\net7.0\zad2.csproj.CoreCompileInputs.cache
+C:\Users\Maciek\Desktop\lab5_zad2\zad2\obj\Debug\net7.0\zad2.dll
+C:\Users\Maciek\Desktop\lab5_zad2\zad2\obj\Debug\net7.0\refint\zad2.dll
+C:\Users\Maciek\Desktop\lab5_zad2\zad2\obj\Debug\net7.0\zad2.pdb
+C:\Users\Maciek\Desktop\lab5_zad2\zad2\obj\Debug\net7.0\zad2.genruntimeconfig.cache
+C:\Users\Maciek\Desktop\lab5_zad2\zad2\obj\Debug\net7.0\ref\zad2.dll
+C:\Users\Maciek\Desktop\3d point structure cs\bin\Debug\net7.0\zad2.exe
+C:\Users\Maciek\Desktop\3d point structure cs\bin\Debug\net7.0\zad2.deps.json
+C:\Users\Maciek\Desktop\3d point structure cs\bin\Debug\net7.0\zad2.runtimeconfig.json
+C:\Users\Maciek\Desktop\3d point structure cs\bin\Debug\net7.0\zad2.dll
+C:\Users\Maciek\Desktop\3d point structure cs\bin\Debug\net7.0\zad2.pdb
+C:\Users\Maciek\Desktop\3d point structure cs\obj\Debug\net7.0\zad2.csproj.AssemblyReference.cache
+C:\Users\Maciek\Desktop\3d point structure cs\obj\Debug\net7.0\zad2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maciek\Desktop\3d point structure cs\obj\Debug\net7.0\zad2.AssemblyInfoInputs.cache
+C:\Users\Maciek\Desktop\3d point structure cs\obj\Debug\net7.0\zad2.AssemblyInfo.cs
+C:\Users\Maciek\Desktop\3d point structure cs\obj\Debug\net7.0\zad2.csproj.CoreCompileInputs.cache
+C:\Users\Maciek\Desktop\3d point structure cs\obj\Debug\net7.0\zad2.dll
+C:\Users\Maciek\Desktop\3d point structure cs\obj\Debug\net7.0\refint\zad2.dll
+C:\Users\Maciek\Desktop\3d point structure cs\obj\Debug\net7.0\zad2.pdb
+C:\Users\Maciek\Desktop\3d point structure cs\obj\Debug\net7.0\zad2.genruntimeconfig.cache
+C:\Users\Maciek\Desktop\3d point structure cs\obj\Debug\net7.0\ref\zad2.dll
+C:\projects\C#\3d point structure cs\bin\Debug\net7.0\zad2.exe
+C:\projects\C#\3d point structure cs\bin\Debug\net7.0\zad2.deps.json
+C:\projects\C#\3d point structure cs\bin\Debug\net7.0\zad2.runtimeconfig.json
+C:\projects\C#\3d point structure cs\bin\Debug\net7.0\zad2.dll
+C:\projects\C#\3d point structure cs\bin\Debug\net7.0\zad2.pdb
+C:\projects\C#\3d point structure cs\obj\Debug\net7.0\zad2.csproj.AssemblyReference.cache
+C:\projects\C#\3d point structure cs\obj\Debug\net7.0\zad2.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\C#\3d point structure cs\obj\Debug\net7.0\zad2.AssemblyInfoInputs.cache
+C:\projects\C#\3d point structure cs\obj\Debug\net7.0\zad2.AssemblyInfo.cs
+C:\projects\C#\3d point structure cs\obj\Debug\net7.0\zad2.csproj.CoreCompileInputs.cache
+C:\projects\C#\3d point structure cs\obj\Debug\net7.0\zad2.dll
+C:\projects\C#\3d point structure cs\obj\Debug\net7.0\refint\zad2.dll
+C:\projects\C#\3d point structure cs\obj\Debug\net7.0\zad2.pdb
+C:\projects\C#\3d point structure cs\obj\Debug\net7.0\zad2.genruntimeconfig.cache
+C:\projects\C#\3d point structure cs\obj\Debug\net7.0\ref\zad2.dll
